@@ -1,0 +1,32 @@
+Difficulty Level: 0
+Leaderboard:
+1. Froggie 18 turns
+2. AlphaWoof 19 turns
+3. Ian 20 turns
+4. sSupeRr 21 turns
+5. Fang 22 turns
+
+Difficulty Level: 1
+Leaderboard:
+1. AlphaWoof 23 turns
+2. Ian 24 turns
+3. Fang 25 turns
+4. Froggie 25 turns
+5. Tom 26 turns
+
+Difficulty Level: 2
+Leaderboard:
+1. sSupeRr 26 turns
+2. Ian 27 turns
+3. Froggie 28 turns
+4. Fang 31 turns
+5. AlphaWoof 32 turns
+
+Difficulty Level: 3
+Leaderboard:
+1. Fang 31 turns
+2. AlphaWoof 42 turns
+3. Ian 49 turns
+4. Plu 55 turns
+5. Froggie 69 turns
+
